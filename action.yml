@@ -1,4 +1,4 @@
-name: "Open a Github Issue"
+name: "Open a Github Issue (Testing)"
 author: Ali Alaa
 description: "Opens a github issue"
 inputs:
